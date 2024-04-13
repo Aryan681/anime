@@ -159,8 +159,8 @@ body {
 .box {
 
     display: flex;
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 350px;
     margin: 10px;
     font-size: 1px;
     /* background-color: red; */
@@ -177,8 +177,8 @@ body {
 .box:hover {
     /* these are the properties which are going to trans   */
     background-color: rgb(32, 31, 30);
-    height: 500px;
-    width: 400px;
+    height: 310px;
+    width: 370px;
     opacity: 0.9;
     margin: 20px;
     background: url("https://i.pinimg.com/474x/22/ef/c7/22efc78f99387ce3d892f97bf6ffdb5a.jpg")no-repeat center center/cover;
