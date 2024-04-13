@@ -246,7 +246,7 @@ body {
         /* overflow: hidden; */
         display: block;
         color: white;
-        height: 49em;
+        height: 55em;
         width: 60em;
         margin:17px;
         background-color: #0d0d0d;
@@ -256,12 +256,24 @@ body {
     #navbar {
 
         display: flex;
-    
+        width: 63em;
         align-items: center;
-        position: absolute;
-        top: 0px;
+        position: sticky;
+        top: 0.34em;
+        opacity: 0.7;
         /* border: 2px solid red; */
 
+    }
+    #home {
+        display: flex;
+        color: white;
+        flex-direction: column;
+        padding: 3px 2px;
+         height: 34em;
+        
+        align-items: center;
+        justify-content: center;
+        /* border: 2px solid red; */
     }
 
     #home::before {
