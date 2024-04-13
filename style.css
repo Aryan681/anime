@@ -226,7 +226,7 @@ body {
     /* overflow: hidden; */
     display: block;
     color: white;
-
+    margin: 17px;
     background-color: #0d0d0d;
 
 }
@@ -248,7 +248,7 @@ body {
         color: white;
         height: 49em;
         width: 60em;
-        margin:15px;
+        margin:17px;
         background-color: #0d0d0d;
     }
 
@@ -269,7 +269,7 @@ body {
         background: url("soto.jpg") no-repeat center center/cover;
         content: "";
         height: 33em;
-        width: 95em;
+        width: 100em;
         background-color: black;
         position: absolute;
         z-index: -1;
